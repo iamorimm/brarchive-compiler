@@ -2,8 +2,6 @@
 
 This system will compile your addon into optimized packs (`.brarchive`) and automatically generate a `.mcaddon` or `.mcpack` file.
 
----
-
 ## How to use
 
 1. Place your files inside the `/src` folder, in the corresponding folders:
@@ -23,13 +21,9 @@ This system will compile your addon into optimized packs (`.brarchive`) and auto
 
 5. Your generated files will be in `/dist`!
 
----
-
 ## Dependencies
 
 - **Python** (3.6 or higher)
-
----
 
 ## Credits
 
