@@ -1,0 +1,18 @@
+// Your pack manifest here
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "b80e359f-a313-4113-999b-5ac4d2609ced",
+    "min_engine_version": [1, 20, 40],
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "cc749c45-9bcf-4124-a629-3f50ced8d54c",
+      "version": [1, 0, 0]
+    }
+  ]
+}
