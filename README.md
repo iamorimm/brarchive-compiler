@@ -24,9 +24,3 @@ This system will compile your addon into optimized packs (`.brarchive`) and auto
 ## Dependencies
 
 - **Python** (3.6 or higher)
-
-## Credits
-
-Created by Italo Amorim  
-GitHub: https://github.com/iamorimm
-Instagram: [@iamorim_](https://instagram.com/iamorim_)
